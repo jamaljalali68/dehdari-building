@@ -1,0 +1,114 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_759126FF_68A1_7EF2_41BA_3E62F8141139.text = ﻯﺭﺍﺪﻫﺩ ﻥﺎﻤﺘﺧﺎﺳ  \
+
+
+## Media
+
+### Audio
+audiores_4E598571_7F12_50F8_41D1_734B8702674E.mp3Url = media/audio_51D93162_7F12_5018_41D7_5E0A8A447670_en.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_9A4E2AE6_82D1_6CC9_41C6_2BA0C8496828.url = media/panorama_55549B07_7D16_5018_41DF_777DD135B3C4_HS_c9w0ao4k_en.png
+
+### Title
+album_531E9EB8_7F15_B068_41D3_09A4ED33BFEC_2.label = 10_2025-01-19_13-40-23_screenshot
+album_531E9EB8_7F15_B068_41D3_09A4ED33BFEC_3.label = 16_2025-01-19_13-40-49_screenshot
+album_531E9EB8_7F15_B068_41D3_09A4ED33BFEC_0.label = 1_2025-01-19_13-39-49_screenshot
+album_531E9EB8_7F15_B068_41D3_09A4ED33BFEC_1.label = 1_2025-01-19_13-40-10_screenshot
+album_531E9EB8_7F15_B068_41D3_09A4ED33BFEC_4.label = 25_2025-01-19_13-41-10_screenshot
+panorama_557FF981_7D12_5018_41DA_C0BB7C752CAB.label = 9
+album_531E9EB8_7F15_B068_41D3_09A4ED33BFEC.label = Photo Album 1_2025-01-19_13-39-49_screenshot
+panorama_55302785_7D1E_B018_41D5_CFF73BA9CDE1.label = آشپزخانه
+panorama_5541183B_7D12_F06F_41BF_368DB7FB120C.label = بیرون پارکینگ
+panorama_55477B04_7D12_5018_41CC_EEB30784D1A7.label = بیرون پارکینگ درب باز
+panorama_5502104A_7D1D_B028_4199_F7CB05FB5C89.label = تراس
+panorama_55045A22_7D12_7018_41D0_71CBB5F208B1.label = حمام
+panorama_551E6D9A_7D12_5028_41B8_3A2B0977A3AB.label = خواب 1
+panorama_5512CF3C_7D13_D068_41CE_60D2CB77402D.label = خواب 2
+panorama_54E9D599_7D1D_B028_41B5_D66878FCC73F.label = راهرو خانه
+panorama_556C6843_7D12_F018_41D2_D2DEC91DA8C5.label = راهرو همکف 1
+panorama_55534070_7D1D_D0F8_41D4_275E46F0463C.label = راهرو همکف روبرو آسانسور
+panorama_55469073_7D12_70F8_41CD_F7315B08C5E8.label = راهرو ورودی پارکینگ
+panorama_5512689C_7D12_D028_41CF_8FF54F62292D.label = سرویس بهداشتی
+panorama_5525BDD6_7D1E_5038_41C0_C99BCEB4733F.label = طبقه 4 داخل آسانسور
+panorama_550ACEDF_7D1E_D028_41D2_18D6BEAD77E1.label = طبقه 4 روبرو درب ورودی
+panorama_5528F50A_7D1D_B029_41D8_EA8510EE6820.label = همکف داخل آسانسور
+panorama_55257143_7D16_5018_41D3_7094ADDA41AA.label = ورودی حیاط 1
+panorama_5536BD2A_7D15_D068_41B7_EBC835026E09.label = ورودی حیاط 2
+panorama_556D8483_7D12_5018_41C5_670F7A50E5B8.label = ورودی حیاط 3
+panorama_546E8B13_7D1F_F038_41D0_809A47426DC4.label = ورودی خانه
+panorama_55549B07_7D16_5018_41DF_777DD135B3C4.label = ورودی ساختمان
+panorama_554EF6C6_7D13_B018_41DC_3AFB27AA43C0.label = پارکینگ 1
+panorama_55799288_7D13_D028_41B9_80C3D16F5D14.label = پارکینگ 2
+panorama_55096EBD_7D1E_5068_41DF_5C3B3F965E33.label = پذیرایی 1
+panorama_5509F649_7D1E_D028_41B7_4AD2DE8B9B54.label = پذیرایی 2
+
+## Right Click Menu
+
+### Text
+menuItem_5B0401A9_7D36_5068_41DD_CDA3CFDA2C28.label = طراحی شده توسط مجموعه نیکسازان
+
+## Skin
+
+### Button
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = آلبوم عکس
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = اطلاعات
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = اطلاعات کلی
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = طراحی
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = طراحی
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = عکس ها
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = لیست پاناراما ها
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = موقعیت
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = موقعیت
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = نقشه ساختمان
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = پاناراما
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = پلن
+
+### Image
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_en.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_en.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_en.png
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_en.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_en.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_en.png
+Image_64FA55B4_7D12_5078_41D2_832ECB79D96B.url = skin/Image_64FA55B4_7D12_5078_41D2_832ECB79D96B_en.png
+Image_64FA55B4_7D12_5078_41D2_832ECB79D96B_mobile.url = skin/Image_64FA55B4_7D12_5078_41D2_832ECB79D96B_mobile_en.png
+
+### Label
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = {{title}}
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = {{title}}
+
+### Multiline Text
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.760000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:5.2932761087267535vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.29vmin;font-family:'IRANYekanWebFn Medium';">مشاهده عکس ها</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:5.722460658082977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.15vmin;font-family:'IRANSansWeb Light';">.لیست عکس ها را جابجا کرده و مشاهده کنید</SPAN><SPAN STYLE="font-size:5.72vmin;font-family:'IRANSansWeb Light';"> </SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.05vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">address line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">address line 2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15.067333333333334vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:15.07vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:10.277777777777782vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.28vmin;font-family:'IRANYekanWebFn Medium';">مشاهده عکس ها</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:11.11111111111111vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.17vmin;font-family:'IRANSansWeb Light';">.لیست عکس ها را جابجا کرده و مشاهده کنید</SPAN><SPAN STYLE="font-size:11.11vmin;font-family:'IRANSansWeb Light';"> </SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:137%;text-align:right;font-size:7.760000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="line-height:137%;text-align:right;font-size:5.722460658082968vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.72vmin;font-family:'IRYekan';">موقعیت</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:137%;text-align:right;font-size:3.39vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">آدرس اصلی</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:137%;text-align:right;font-size:1.4200000000000006vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:193%;text-align:right;font-size:3.004291845493562vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3vmin;font-family:'IRYekan';">دپارتمان فناوری اطلاعات</SPAN></SPAN></DIV><DIV STYLE="line-height:193%;text-align:right;font-size:2.002861230329042vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2vmin;font-family:'IRYekan';">شیراز میدان آبیاری قدمگاه 15</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:193%;text-align:right;font-size:2.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Tlf.: 07138476225</SPAN></SPAN></DIV><DIV STYLE="line-height:193%;text-align:right;font-size:2.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Niksazan.fars.co@gmail.com</SPAN></SPAN></DIV><DIV STYLE="line-height:193%;text-align:right;font-size:2.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000066;font-size:2.19vmin;font-family:'Bebas Neue Bold';">www.Niksazan.com</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:4.260000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';"> :پلن</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.29vh;font-family:'IRYekan';">:نقشه ساختمان</SPAN><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';"> </SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:7.760000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:4.434907010014305vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.43vh;font-family:'IRYekan';">شرکت نیک سازان</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:10.050000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10.05vmin;font-family:'Bebas Neue Bold';">نیک سازان </SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:6.229999999999992vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';">دپارتمان فناوری</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.28vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:right;font-size:4.589999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">Tlf.: 38476225</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:4.589999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">Niksazan.fars.co@gmail.com</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:4.589999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">www.Niksazan.com</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:7.980000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';"> :لیست پاناراما</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;text-indent:15px;padding-right:15px;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;text-indent:15px;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';text-indent:15px;">___</SPAN></SPAN></DIV><DIV STYLE="text-align:right;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';"> </SPAN><SPAN STYLE="font-size:4.29vh;font-family:'IRYekan';">:لیست پاناروما ها</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Design By J.Jalali
+
+### Title
+tour.name = Dehdari Building

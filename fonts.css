@@ -1,0 +1,96 @@
+@font-face {
+   font-family: "IRANSansWeb";
+   src: url("fonts/IRANSansWeb Bold.woff") format("woff"), url("fonts/IRANSansWeb Bold.eot") format("embedded-opentype"), url("fonts/IRANSansWeb Bold.ttf") format("truetype"), url("fonts/IRANSansWeb Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue Bold";
+   src: url("fonts/BebasNeueBold.woff") format("woff"), url("fonts/BebasNeueBold.eot") format("embedded-opentype"), url("fonts/BebasNeueBold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "IRANYekanWebFn Medium";
+   src: url("fonts/IRANYekanWebFn Medium.woff") format("woff"), url("fonts/IRANYekanWebFn Medium.eot") format("embedded-opentype"), url("fonts/IRANYekanWebFn Medium.ttf") format("truetype"), url("fonts/IRANYekanWebFn Medium.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "IRANSansWeb Light";
+   src: url("fonts/IRANSansWeb Light.woff") format("woff"), url("fonts/IRANSansWeb Light.eot") format("embedded-opentype"), url("fonts/IRANSansWeb Light.ttf") format("truetype"), url("fonts/IRANSansWeb Light.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "IRYekan";
+   src: url("fonts/IRYekan.woff") format("woff"), url("fonts/IRYekan.eot") format("embedded-opentype"), url("fonts/IRYekan.ttf") format("truetype"), url("fonts/IRYekan.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Bold.woff") format("woff"), url("fonts/Montserrat Bold.eot") format("embedded-opentype"), url("fonts/Montserrat Bold.ttf") format("truetype"), url("fonts/Montserrat Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Bold Italic.woff") format("woff"), url("fonts/Montserrat Bold Italic.eot") format("embedded-opentype"), url("fonts/Montserrat Bold Italic.ttf") format("truetype"), url("fonts/Montserrat Bold Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Italic.woff") format("woff"), url("fonts/Montserrat Italic.eot") format("embedded-opentype"), url("fonts/Montserrat Italic.ttf") format("truetype"), url("fonts/Montserrat Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Regular.woff") format("woff"), url("fonts/Montserrat Regular.eot") format("embedded-opentype"), url("fonts/Montserrat Regular.ttf") format("truetype"), url("fonts/Montserrat Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Bold.woff") format("woff"), url("fonts/Montserrat-Bold.eot") format("embedded-opentype"), url("fonts/Montserrat-Bold.ttf") format("truetype"), url("fonts/Montserrat-Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat.woff") format("woff"), url("fonts/Montserrat.eot") format("embedded-opentype"), url("fonts/Montserrat.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Regular.woff") format("woff"), url("fonts/Montserrat-Regular.eot") format("embedded-opentype"), url("fonts/Montserrat-Regular.ttf") format("truetype"), url("fonts/Montserrat-Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Black.woff") format("woff"), url("fonts/Montserrat-Black.eot") format("embedded-opentype"), url("fonts/Montserrat-Black.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Light.woff") format("woff"), url("fonts/Montserrat-Light.eot") format("embedded-opentype"), url("fonts/Montserrat-Light.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "IRANSansWeb(FaNum)";
+   src: url("fonts/IRANSansWeb(FaNum) Bold.woff") format("woff"), url("fonts/IRANSansWeb(FaNum) Bold.eot") format("embedded-opentype"), url("fonts/IRANSansWeb(FaNum) Bold.ttf") format("truetype"), url("fonts/IRANSansWeb(FaNum) Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "IRANSansWeb(FaNum)";
+   src: url("fonts/IRANSansWeb(FaNum).woff") format("woff"), url("fonts/IRANSansWeb(FaNum).eot") format("embedded-opentype"), url("fonts/IRANSansWeb(FaNum).ttf") format("truetype"), url("fonts/IRANSansWeb(FaNum).svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
